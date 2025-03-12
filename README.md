@@ -63,9 +63,6 @@ Then, open your browser and go to `http://localhost:3000` to play.
 
 No future updates are planned. This project is complete as-is.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it.
 
 ## Credits
 
